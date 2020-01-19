@@ -1,0 +1,22 @@
+
+
+InterFace Activity  and FishActivity
+
+ abstract class Animal implements Activity Interface
+  
+  Bird and Fish Class extends Animal class
+  
+  Chicken and Duck Class extends Bird class
+
+  Rooster class extends Chicken
+
+  Fish class extends animal class and implements FishActivity Interface
+
+  Clownfish, shark and dolphin extends fish class
+
+  ButterFly extend animal class
+
+  Caterpiller extends ButterFly
+
+
+     
